@@ -1,3 +1,8 @@
+# sample game tutorial
+
+
+## stage one
+```blocks
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Player, function (sprite, otherSprite) {
     music.baDing.playUntilDone()
 })
@@ -64,3 +69,7 @@ let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . f c e e e c . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . f f c e e c . . . . . . . . . . . . . . .
 `, SpriteKind.Player)
+
+```
+
+## stage two
