@@ -29,7 +29,7 @@ NEXT: Tutorials, hyperlink
 ``||secondary button||``
 
 
-Set your text variable like this: ``[let txt = "text"]``
+Javascript code is converted to block: ``[let txt = "Hello World"]``
 
 
 ## stage one: make a sprite and position it on the screen
