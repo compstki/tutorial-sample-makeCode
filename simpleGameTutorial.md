@@ -1,5 +1,7 @@
 # sample game tutorial
 
+Once the editor loads, you will see a green ||loops:on start|| block already in the editor Workspace
+
 ### ~avatar avatar
 
 Help info
