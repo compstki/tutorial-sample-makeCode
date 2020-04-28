@@ -8,6 +8,7 @@ Help info
 
 ### ~
 
+https://arcade.makecode.com/#tutorial:https://makecode.com/_YuxT1THxPb0m
 
 ### ~hint
 
